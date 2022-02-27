@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Epitaph of the most renowned and illustrious Capt. William Bedloe</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84049</idno>
+            <idno type="STC">Wing E3170D</idno>
+            <idno type="STC">ESTC R42486</idno>
+            <idno type="EEBO-CITATION">36282090</idno>
+            <idno type="OCLC">ocm 36282090</idno>
+            <idno type="VID">150040</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84049)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150040)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2226:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Epitaph of the most renowned and illustrious Capt. William Bedloe</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Imperfect: cropped, and tightly bound, with loss of text.</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bedloe, William, 1650-1680 --  Poetry.</term>
+               <term>Popish Plot, 1678.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:150040:1" rendition="simple:additions"/>
+            <head>THE EPITAPH Of the moſt Renowned and Illuſtrious Capt. WILLIAM BEDLOE.</head>
+            <lg>
+               <l>STay Paſſenger! I am no common Stone,</l>
+               <l>The Duſt's not Vulgar which I lie upon:</l>
+               <l>This is the Mighty Captain <hi>Bedloe's</hi> Grave,</l>
+               <l>Now honeſt <hi>Proteſtant,</hi> though once <hi>Popiſh Knave,</hi>
+               </l>
+               <l>Who falſly Men out of their <hi>lives</hi> did Swear,</l>
+               <l>And with his Tongue more Men than Hands did fear:</l>
+               <l>That nimble Weapon he'd ſo finely uſe,</l>
+               <l>That He Three Kingdoms with it did abuſe:</l>
+               <l>
+                  <hi>Noll</hi>'s Sword did do no more; Yet this great Wight,</l>
+               <l>(As once the Gyants,) did 'gainſt Heaven fight:</l>
+               <l>Falſe Oaths on Oaths he laid, the Bulk did riſe</l>
+               <l>Into a <hi>Teneriff</hi> of PERJURIES;</l>
+               <l>On which baſe Mount he ſtood, add Heav'n did dare,</l>
+               <l>At the <hi>Old-Baily</hi> too and Impious War;</l>
+               <l>For who <hi>falſe Oath</hi> does take, at that bold hit,</l>
+               <l>Does in the face of his Creator ſpit;</l>
+               <l>Such Chriſtians who ſhould be his Friends, do uſe</l>
+               <l>Criſt worſe, then did his <hi>Foes</hi> the Jews:</l>
+               <l>They knew not what they did when He did Die,</l>
+               <l>Theſe <hi>knowing Chriſtians</hi> do <hi>Chriſt</hi> Crucifie</l>
+               <l>With <hi>loathſom Oaths,</hi> which more prevails</l>
+               <l>On's Sacred Virgin-fleſh, then did the Nails</l>
+               <l>Which pierc'd his <hi>Hands</hi> and <hi>Feet</hi> when He did Die,</l>
+               <l>To ſave this Villain on <hi>Mount Calvery:</hi>
+               </l>
+               <l>But Heaven's aſleep, at which Mortals wonder,</l>
+               <l>Fearing he has forgot 'gainſt Sin to Thunder;</l>
+               <l>Or elſe this <hi>Fidlers Son</hi> could ne'r have Dy'd,</l>
+               <l>The Peoples Sorrow, almoſt Deify'd:</l>
+               <l>Who as their <hi>ſecond Saviour</hi> they Bewail,</l>
+               <l>And have forgot He once did Horſes ſteal.</l>
+               <l>No, no; we Judge according to our Senſe,</l>
+               <l>Which cannot futhom <hi>Ocean-Providence,</hi>
+               </l>
+               <l>Which Buoys thoſe up who in it boldy ſtrive</l>
+               <pb facs="tcp:150040:2" rendition="simple:additions"/>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</l>
+               <l>That He Three Kingdoms with it did abuſe:</l>
+               <l>
+                  <hi>Noll</hi>'s Sword did do no more; Yet this great Wight,</l>
+               <l>(As once the Gyants,) did 'gainſt Heaven fight:</l>
+               <l>Falſe Oaths on Oaths he laid, the Bulk did riſe</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nto a <hi>Teneriff</hi> of PERJURIES;</l>
+               <l>On which baſe Mount he ſtood, add Heav'n did dare,</l>
+               <l>At the <hi>Old-Baily</hi> too and Impious War;</l>
+               <l>For who <hi>falſe Oath</hi> does take, at that bold hit,</l>
+               <l>Does in the face of his Creator ſpit;</l>
+               <l>Such Chriſtians who ſhould be his Friends, do uſe</l>
+               <l>Criſt worſe, then did his <hi>Foes</hi> the Jews:</l>
+               <l>They knew not what they did when He did Die,</l>
+               <l>Theſe <hi>knowing Chriſtians</hi> do <hi>Chriſt</hi> Crucifie</l>
+               <l>With <hi>loathſom Oaths,</hi> which more prevails</l>
+               <l>On's Sacred Virgin-fleſh, then did the Nails</l>
+               <l>Which pierc'd his <hi>Hands</hi> and <hi>Feet</hi> when He did Die,</l>
+               <l>To ſave this Villain on <hi>Mount Calvery:</hi>
+               </l>
+               <l>But Heaven's aſleep, at which Mortals wonder,</l>
+               <l>Fearing he has forgot 'gainſt Sin to Thunder;</l>
+               <l>Or elſe this <hi>Fidlers Son</hi> could ne'r have Dy'd,</l>
+               <l>The Peoples Sorrow, almoſt Deify'd:</l>
+               <l>Who as their <hi>ſecond Saviour</hi> they Bewail,</l>
+               <l>And have forgot He once did Horſes ſteal.</l>
+               <l>No, no; we Judge according to our Senſe,</l>
+               <l>Which cannot futhom <hi>Ocean-Providence,</hi>
+               </l>
+               <l>Which Buoys thoſe up who in it boldy ſtrive</l>
+               <l>To Swim, but Drowns who in it needs will dive;</l>
+               <l>Although his Body under Marble lies,</l>
+               <l>His Soul in <hi>living Flames,</hi> ſtill living Dies;</l>
+               <l>And when Gods Judgement's over for our Sins,</l>
+               <l>Then, then, his Wrath 'gainſt his Comeradeas begins;</l>
+               <l>Which when thoſe <hi>Perjur'd Villains</hi> cannot skip,</l>
+               <l>He'll burn the Rod which once his Child did whip.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Reader, Paſs on, and in thy Heart when gone,</hi>
+               </l>
+               <l>
+                  <hi>With horrour write, what's here now writ in Stone.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
